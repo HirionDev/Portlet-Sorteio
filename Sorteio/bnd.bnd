@@ -1,0 +1,7 @@
+Bundle-Name: Sorteio
+Bundle-SymbolicName: sorteio
+Bundle-Version: 1.0.0
+Export-Package: sorteio.constants
+Provide-Capability:\
+	liferay.language.resources;\
+		resource.bundle.base.name="content.Language"
